@@ -27,3 +27,15 @@ jupyter notebook
 * sentencepiece
 * tensorboardX
   * 可視化をする際にTensorboardを簡単に利用するため
+
+
+
+# Images
+
+![image-20190708203632800](/Users/tyoyo/Library/Application Support/typora-user-images/image-20190708203632800.png)
+
+![image-20190708203644526](/Users/tyoyo/Library/Application Support/typora-user-images/image-20190708203644526.png)
+
+# Slides
+
+* Coming soon!
