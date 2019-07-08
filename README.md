@@ -32,9 +32,13 @@ jupyter notebook
 
 # Images
 
-![image-20190708203632800](/Users/tyoyo/Library/Application Support/typora-user-images/image-20190708203632800.png)
+![Imgur](https://i.imgur.com/NR8sjrm.png)
 
-![image-20190708203644526](/Users/tyoyo/Library/Application Support/typora-user-images/image-20190708203644526.png)
+![Imgur](https://i.imgur.com/6USTTAf.png)
+
+
+
+
 
 # Slides
 
